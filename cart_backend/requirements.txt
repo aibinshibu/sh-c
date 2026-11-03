@@ -1,0 +1,17 @@
+# Web server
+fastapi
+uvicorn
+python-multipart
+
+# Gemini assistant
+langchain-google-genai
+python-dotenv
+
+# Database and passwords
+werkzeug
+
+# Video detection (OpenVINO model best.xml / best.bin)
+openvino>=2024.0
+opencv-python>=4.8
+numpy
+pyyaml

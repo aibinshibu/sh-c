@@ -1,0 +1,17 @@
+# Local configuration and credentials
+.env
+**/.env
+
+# Python environments and generated files
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+**/.pytest_cache/
+*.py[cod]
+
+# Local data and video footage
+cart_backend/supermarket1.db
+cart_backend/supermarket1.db-*
+test_videos/
